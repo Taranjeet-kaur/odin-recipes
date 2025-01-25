@@ -1,0 +1,25 @@
+h1 {
+    color: purple;
+    background-color: fuchsia;
+    border-radius: 50%;
+    text-align: center;
+    width: 100%;
+}
+
+body {
+    background-image: url();
+    background-color: black;
+}
+
+#recipe-link {
+    color: rgb(24, 29, 29);
+    background-color:rgb(110, 191, 191);
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+/* #recipe-link{
+    
+    
+} */
